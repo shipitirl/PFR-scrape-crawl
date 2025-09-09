@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+http_cache*
+data/*.parquet
+data/*.csv
+*.sqlite
