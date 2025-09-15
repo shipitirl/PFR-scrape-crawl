@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210270buf,First Downs,16,23,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Rush-Yds-TDs,24-83-1,24-74-2,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Cmp-Att-Yd-TD-INT,20-42-199-1-1,21-36-302-1-0,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Sacked-Yards,0-0,4-33,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Net Pass Yards,199,269,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Total Yards,282,343,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Fumbles-Lost,0-0,2-2,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Turnovers,1,2,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Penalties-Yards,8-71,6-51,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Third Down Conv.,5-15,6-14,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Fourth Down Conv.,0-2,1-1,Detroit Lions,Buffalo Bills,DET,BUF
+200210270buf,Time of Possession,28:27,31:33,Detroit Lions,Buffalo Bills,DET,BUF

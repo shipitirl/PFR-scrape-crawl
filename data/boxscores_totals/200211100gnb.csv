@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211100gnb,First Downs,13,24,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Rush-Yds-TDs,17-126-0,34-150-1,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Cmp-Att-Yd-TD-INT,20-44-236-2-2,29-42-363-2-0,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Sacked-Yards,0-0,2-10,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Net Pass Yards,236,353,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Total Yards,362,503,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Fumbles-Lost,0-0,3-2,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Turnovers,2,2,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Penalties-Yards,1-10,8-53,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Third Down Conv.,1-13,8-17,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Fourth Down Conv.,1-4,0-0,Detroit Lions,Green Bay Packers,DET,GNB
+200211100gnb,Time of Possession,20:37,39:23,Detroit Lions,Green Bay Packers,DET,GNB

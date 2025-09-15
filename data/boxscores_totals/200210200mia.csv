@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200mia,First Downs,15,17,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Rush-Yds-TDs,27-132-0,34-132-0,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Cmp-Att-Yd-TD-INT,15-31-182-1-0,13-33-165-1-4,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Sacked-Yards,5-20,1-10,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Net Pass Yards,162,155,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Total Yards,294,287,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Fumbles-Lost,0-0,2-2,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Turnovers,0,6,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Penalties-Yards,4-40,6-56,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Third Down Conv.,3-13,6-15,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Fourth Down Conv.,0-1,1-2,Buffalo Bills,Miami Dolphins,BUF,MIA
+200210200mia,Time of Possession,28:46,31:14,Buffalo Bills,Miami Dolphins,BUF,MIA

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210270nwe,First Downs,23,16,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Rush-Yds-TDs,40-136-2,19-69-1,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Cmp-Att-Yd-TD-INT,18-23-229-1-1,15-29-130-1-0,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Sacked-Yards,2-14,5-20,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Net Pass Yards,215,110,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Total Yards,351,179,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Fumbles-Lost,2-1,1-0,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Turnovers,2,0,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Penalties-Yards,2-51,8-83,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Third Down Conv.,8-13,3-12,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Fourth Down Conv.,0-0,0-0,Denver Broncos,New England Patriots,DEN,NWE
+200210270nwe,Time of Possession,35:40,24:20,Denver Broncos,New England Patriots,DEN,NWE

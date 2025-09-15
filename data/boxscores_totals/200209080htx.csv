@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080htx,First Downs,11,13,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Rush-Yds-TDs,24-155-1,35-87-0,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Cmp-Att-Yd-TD-INT,13-30-131-0-1,10-22-145-2-1,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Sacked-Yards,3-19,6-22,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Net Pass Yards,112,123,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Total Yards,267,210,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Fumbles-Lost,3-1,1-0,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Turnovers,2,1,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Penalties-Yards,9-117,11-80,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Third Down Conv.,2-13,2-15,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Fourth Down Conv.,0-0,0-0,Dallas Cowboys,Houston Texans,DAL,HOU
+200209080htx,Time of Possession,26:05,33:55,Dallas Cowboys,Houston Texans,DAL,HOU

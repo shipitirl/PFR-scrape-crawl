@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211100ram,First Downs,15,25,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Rush-Yds-TDs,29-126-1,16-71-0,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Cmp-Att-Yd-TD-INT,12-20-139-0-2,36-48-453-4-0,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Sacked-Yards,1-9,0-0,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Net Pass Yards,130,453,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Total Yards,256,524,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Fumbles-Lost,0-0,4-4,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Turnovers,2,4,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Penalties-Yards,12-82,10-85,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Third Down Conv.,3-10,4-9,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Fourth Down Conv.,1-1,0-0,San Diego Chargers,St. Louis Rams,SDG,STL
+200211100ram,Time of Possession,29:47,30:13,San Diego Chargers,St. Louis Rams,SDG,STL

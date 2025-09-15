@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209220phi,First Downs,18,26,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Rush-Yds-TDs,27-121-0,26-153-1,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Cmp-Att-Yd-TD-INT,21-35-201-0-1,26-40-309-4-0,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Sacked-Yards,3-18,3-15,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Net Pass Yards,183,294,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Total Yards,304,447,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Fumbles-Lost,3-3,4-2,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Turnovers,4,2,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Penalties-Yards,7-92,3-25,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Third Down Conv.,4-13,3-10,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Fourth Down Conv.,0-0,1-1,Dallas Cowboys,Philadelphia Eagles,DAL,PHI
+200209220phi,Time of Possession,30:52,29:08,Dallas Cowboys,Philadelphia Eagles,DAL,PHI

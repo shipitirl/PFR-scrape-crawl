@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060sfo,First Downs,19,21,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Rush-Yds-TDs,24-88-0,27-179-2,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Cmp-Att-Yd-TD-INT,23-40-232-1-2,18-27-214-1-0,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Sacked-Yards,1-7,1-7,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Net Pass Yards,225,207,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Total Yards,313,386,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Fumbles-Lost,1-0,0-0,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Turnovers,2,0,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Penalties-Yards,4-40,4-27,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Third Down Conv.,4-14,4-9,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Fourth Down Conv.,3-3,0-0,St. Louis Rams,San Francisco 49ers,STL,SFO
+200210060sfo,Time of Possession,30:54,29:06,St. Louis Rams,San Francisco 49ers,STL,SFO

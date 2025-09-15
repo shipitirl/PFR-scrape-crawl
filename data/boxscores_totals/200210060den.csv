@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060den,First Downs,16,20,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Rush-Yds-TDs,18-79-0,31-117-0,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Cmp-Att-Yd-TD-INT,26-42-235-1-2,26-35-316-2-1,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Sacked-Yards,0-0,2-16,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Net Pass Yards,235,300,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Total Yards,314,417,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Fumbles-Lost,2-1,0-0,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Turnovers,3,1,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Penalties-Yards,5-41,6-50,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Third Down Conv.,8-15,7-15,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Fourth Down Conv.,0-0,1-1,San Diego Chargers,Denver Broncos,SDG,DEN
+200210060den,Time of Possession,26:13,33:47,San Diego Chargers,Denver Broncos,SDG,DEN

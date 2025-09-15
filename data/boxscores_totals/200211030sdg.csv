@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211030sdg,First Downs,21,15,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Rush-Yds-TDs,30-165-3,14-73-1,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Cmp-Att-Yd-TD-INT,28-37-253-1-0,22-35-192-1-2,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Sacked-Yards,2-5,2-22,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Net Pass Yards,248,170,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Total Yards,413,243,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Fumbles-Lost,0-0,2-1,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Turnovers,0,3,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Penalties-Yards,6-65,8-55,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Third Down Conv.,7-15,1-9,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Fourth Down Conv.,0-0,0-1,New York Jets,San Diego Chargers,NYJ,SDG
+200211030sdg,Time of Possession,37:06,22:54,New York Jets,San Diego Chargers,NYJ,SDG

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130nyg,First Downs,15,18,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Rush-Yds-TDs,24-67-1,27-113-0,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Cmp-Att-Yd-TD-INT,19-25-257-1-0,20-31-204-1-1,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Sacked-Yards,2-11,3-14,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Net Pass Yards,246,190,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Total Yards,313,303,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Fumbles-Lost,2-0,3-1,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Turnovers,0,2,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Penalties-Yards,3-20,6-35,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Third Down Conv.,8-13,6-13,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Fourth Down Conv.,0-0,1-2,Atlanta Falcons,New York Giants,ATL,NYG
+200210130nyg,Time of Possession,29:58,30:02,Atlanta Falcons,New York Giants,ATL,NYG

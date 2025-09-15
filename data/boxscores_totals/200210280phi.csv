@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210280phi,First Downs,18,21,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Rush-Yds-TDs,23-103-0,40-295-1,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Cmp-Att-Yd-TD-INT,20-34-251-0-0,14-30-137-0-0,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Sacked-Yards,1-6,1-10,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Net Pass Yards,245,127,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Total Yards,348,422,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Fumbles-Lost,5-1,1-0,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Turnovers,1,0,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Penalties-Yards,9-75,9-65,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Third Down Conv.,3-11,8-16,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Fourth Down Conv.,1-2,0-1,New York Giants,Philadelphia Eagles,NYG,PHI
+200210280phi,Time of Possession,26:12,33:48,New York Giants,Philadelphia Eagles,NYG,PHI

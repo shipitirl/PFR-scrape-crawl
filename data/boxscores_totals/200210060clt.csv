@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060clt,First Downs,23,19,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Rush-Yds-TDs,24-173-2,25-87-2,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Cmp-Att-Yd-TD-INT,31-43-244-1-3,21-34-224-2-1,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Sacked-Yards,1-7,0-0,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Net Pass Yards,237,224,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Total Yards,410,311,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Fumbles-Lost,3-1,0-0,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Turnovers,4,1,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Penalties-Yards,6-63,5-71,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Third Down Conv.,2-11,6-14,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Fourth Down Conv.,2-3,0-0,Cincinnati Bengals,Indianapolis Colts,CIN,IND
+200210060clt,Time of Possession,30:45,29:15,Cincinnati Bengals,Indianapolis Colts,CIN,IND

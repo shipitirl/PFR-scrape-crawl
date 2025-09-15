@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200crd,First Downs,14,22,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Rush-Yds-TDs,36-148-0,38-152-0,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Cmp-Att-Yd-TD-INT,13-22-202-1-4,23-46-232-0-0,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Sacked-Yards,2-8,1-4,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Net Pass Yards,194,228,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Total Yards,342,380,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Fumbles-Lost,1-0,1-1,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Turnovers,4,1,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Penalties-Yards,6-59,2-15,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Third Down Conv.,2-12,9-21,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Fourth Down Conv.,0-0,0-0,Dallas Cowboys,Arizona Cardinals,DAL,ARI
+200210200crd,Time of Possession,30:57,40:53,Dallas Cowboys,Arizona Cardinals,DAL,ARI

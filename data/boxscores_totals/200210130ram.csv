@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130ram,First Downs,20,19,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Rush-Yds-TDs,17-65-0,32-158-1,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Cmp-Att-Yd-TD-INT,30-45-332-1-2,14-21-186-3-0,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Sacked-Yards,4-30,3-22,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Net Pass Yards,302,164,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Total Yards,367,322,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Fumbles-Lost,4-1,1-1,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Turnovers,3,1,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Penalties-Yards,14-107,11-82,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Third Down Conv.,3-11,4-11,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Fourth Down Conv.,0-2,0-0,Oakland Raiders,St. Louis Rams,OAK,STL
+200210130ram,Time of Possession,28:14,31:46,Oakland Raiders,St. Louis Rams,OAK,STL

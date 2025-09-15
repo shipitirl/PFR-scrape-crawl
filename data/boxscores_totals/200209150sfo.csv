@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150sfo,First Downs,21,18,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Rush-Yds-TDs,35-201-1,20-71-1,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Cmp-Att-Yd-TD-INT,14-19-119-2-0,27-36-205-1-1,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Sacked-Yards,4-21,2-15,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Net Pass Yards,98,190,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Total Yards,299,261,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Fumbles-Lost,1-1,2-1,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Turnovers,1,2,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Penalties-Yards,3-30,10-114,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Third Down Conv.,5-10,8-13,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Fourth Down Conv.,0-0,0-0,Denver Broncos,San Francisco 49ers,DEN,SFO
+200209150sfo,Time of Possession,30:33,29:27,Denver Broncos,San Francisco 49ers,DEN,SFO

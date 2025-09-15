@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130tam,First Downs,11,22,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Rush-Yds-TDs,18-60-0,38-186-2,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Cmp-Att-Yd-TD-INT,20-40-151-0-1,15-32-194-0-1,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Sacked-Yards,2-17,0-0,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Net Pass Yards,134,194,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Total Yards,194,380,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Fumbles-Lost,0-0,0-0,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Turnovers,1,1,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Penalties-Yards,8-66,5-45,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Third Down Conv.,6-17,6-14,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Fourth Down Conv.,0-0,0-1,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM
+200210130tam,Time of Possession,26:26,33:34,Cleveland Browns,Tampa Bay Buccaneers,CLE,TAM

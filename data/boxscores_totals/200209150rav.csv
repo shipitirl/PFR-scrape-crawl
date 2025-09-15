@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150rav,First Downs,17,12,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Rush-Yds-TDs,30-74-0,20-55-0,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Cmp-Att-Yd-TD-INT,24-31-211-0-0,16-38-141-0-1,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Sacked-Yards,1-6,3-23,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Net Pass Yards,205,118,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Total Yards,279,173,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Fumbles-Lost,1-0,1-0,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Turnovers,0,1,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Penalties-Yards,10-74,3-25,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Third Down Conv.,6-14,4-15,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Fourth Down Conv.,0-0,1-2,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL
+200209150rav,Time of Possession,35:31,24:29,Tampa Bay Buccaneers,Baltimore Ravens,TAM,BAL

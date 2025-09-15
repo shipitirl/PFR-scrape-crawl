@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211100rav,First Downs,20,21,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Rush-Yds-TDs,28-123-0,32-162-2,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Cmp-Att-Yd-TD-INT,28-41-272-2-3,16-24-183-1-0,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Sacked-Yards,3-23,2-20,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Net Pass Yards,249,163,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Total Yards,372,325,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Fumbles-Lost,1-1,2-2,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Turnovers,4,2,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Penalties-Yards,5-36,1-5,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Third Down Conv.,7-16,4-10,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Fourth Down Conv.,0-0,1-1,Cincinnati Bengals,Baltimore Ravens,CIN,BAL
+200211100rav,Time of Possession,32:35,27:25,Cincinnati Bengals,Baltimore Ravens,CIN,BAL

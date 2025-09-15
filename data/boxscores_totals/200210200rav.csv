@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200rav,First Downs,22,16,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Rush-Yds-TDs,30-173-1,32-118-0,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Cmp-Att-Yd-TD-INT,24-46-231-0-3,14-28-152-2-0,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Sacked-Yards,2-7,2-9,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Net Pass Yards,224,143,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Total Yards,397,261,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Fumbles-Lost,1-0,2-2,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Turnovers,3,2,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Penalties-Yards,5-30,4-30,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Third Down Conv.,6-16,6-14,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Fourth Down Conv.,2-4,0-0,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL
+200210200rav,Time of Possession,32:01,27:59,Jacksonville Jaguars,Baltimore Ravens,JAX,BAL

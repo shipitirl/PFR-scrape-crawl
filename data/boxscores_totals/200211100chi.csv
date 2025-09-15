@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211100chi,First Downs,19,14,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Rush-Yds-TDs,19-82-0,28-125-1,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Cmp-Att-Yd-TD-INT,36-55-328-3-1,16-30-183-2-1,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Sacked-Yards,2-13,2-9,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Net Pass Yards,315,174,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Total Yards,397,299,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Fumbles-Lost,3-1,0-0,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Turnovers,2,1,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Penalties-Yards,6-65,5-30,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Third Down Conv.,6-17,5-15,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Fourth Down Conv.,3-3,1-1,New England Patriots,Chicago Bears,NWE,CHI
+200211100chi,Time of Possession,31:00,29:00,New England Patriots,Chicago Bears,NWE,CHI

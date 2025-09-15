@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210140sea,First Downs,24,24,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Rush-Yds-TDs,31-161-1,30-123-1,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Cmp-Att-Yd-TD-INT,16-29-202-2-0,21-31-212-1-2,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Sacked-Yards,2-12,1-1,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Net Pass Yards,190,211,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Total Yards,351,334,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Fumbles-Lost,0-0,2-0,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Turnovers,0,2,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Penalties-Yards,8-51,10-80,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Third Down Conv.,7-12,10-15,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Fourth Down Conv.,0-0,0-0,San Francisco 49ers,Seattle Seahawks,SFO,SEA
+200210140sea,Time of Possession,29:31,30:29,San Francisco 49ers,Seattle Seahawks,SFO,SEA

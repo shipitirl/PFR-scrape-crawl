@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060dal,First Downs,16,20,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Rush-Yds-TDs,28-104-0,24-95-1,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Cmp-Att-Yd-TD-INT,18-27-228-3-1,23-42-262-1-0,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Sacked-Yards,2-16,3-17,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Net Pass Yards,212,245,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Total Yards,316,340,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Fumbles-Lost,4-1,0-0,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Turnovers,2,0,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Penalties-Yards,6-48,5-37,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Third Down Conv.,6-13,8-17,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Fourth Down Conv.,0-0,0-2,New York Giants,Dallas Cowboys,NYG,DAL
+200210060dal,Time of Possession,28:50,31:10,New York Giants,Dallas Cowboys,NYG,DAL

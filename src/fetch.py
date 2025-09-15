@@ -1,37 +1,54 @@
+import os
 import time
+import random
 import requests
 import requests_cache
-from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
-# Cache HTTP responses on disk for 24h to avoid hammering the site
-requests_cache.install_cache("http_cache", backend="sqlite", expire_after=60*60*24)
+requests_cache.install_cache("http_cache", backend="sqlite", expire_after=60 * 60 * 24)
 
 SESSION = requests.Session()
 SESSION.headers.update({
-    "User-Agent": "pfr-scraper (educational; contact: your_email@example.com)"
+    "User-Agent": "pfr-scraper (research / non-commercial; contact: you@example.com)"
 })
 
-LAST_CALL = [0.0]  # mutable container for closure
-
 class FetchError(Exception): ...
+class RateLimited(FetchError): ...
 
-def _throttle(min_interval=1.0):
-    """Enforce ~1 request/sec when not served from cache."""
+# Policy: "skip" (skip 429s) or "backoff" (short sleep then retry)
+PFR_POLICY = os.getenv("PFR_POLICY", "skip").lower()
+PFR_MIN_INTERVAL = float(os.getenv("PFR_MIN_INTERVAL", "0.0"))
+
+_last_noncached_at = [0.0]
+
+def _throttle():
+    if PFR_MIN_INTERVAL <= 0:
+        return
     now = time.time()
-    delay = min_interval - (now - LAST_CALL[0])
-    if delay > 0:
-        time.sleep(delay)
-    LAST_CALL[0] = time.time()
+    elapsed = now - _last_noncached_at[0]
+    remaining = PFR_MIN_INTERVAL - elapsed
+    if remaining > 0:
+        time.sleep(remaining)
+    _last_noncached_at[0] = time.time()
 
-@retry(
-    retry=retry_if_exception_type(FetchError),
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=1, max=8)
-)
-def get(url: str, *, timeout=30) -> str:
+def get(url: str, *, timeout=20) -> str:
     resp = SESSION.get(url, timeout=timeout)
+
     if not getattr(resp, "from_cache", False):
-        _throttle(1.0)
+        _throttle()
+
+    if resp.status_code == 429:
+        if PFR_POLICY == "backoff":
+            retry_after = resp.headers.get("Retry-After")
+            try:
+                wait_s = min(float(retry_after), 20.0) if retry_after else 10.0
+            except (TypeError, ValueError):
+                wait_s = 10.0
+            time.sleep(wait_s + random.uniform(0.2, 0.8))
+            raise RateLimited(f"429 (backoff {wait_s}s) for {url}")
+        else:
+            raise RateLimited(f"429 skip for {url}")
+
     if resp.status_code != 200 or not resp.text:
         raise FetchError(f"Bad status {resp.status_code} for {url}")
+
     return resp.text

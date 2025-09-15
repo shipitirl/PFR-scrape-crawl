@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210270cin,First Downs,20,22,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Rush-Yds-TDs,27-134-0,40-191-1,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Cmp-Att-Yd-TD-INT,16-27-215-3-0,17-23-193-2-0,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Sacked-Yards,1-7,0-0,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Net Pass Yards,208,193,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Total Yards,342,384,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Fumbles-Lost,1-1,1-1,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Turnovers,1,1,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Penalties-Yards,7-40,9-81,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Third Down Conv.,4-11,5-11,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Fourth Down Conv.,0-0,0-1,Tennessee Titans,Cincinnati Bengals,TEN,CIN
+200210270cin,Time of Possession,26:05,33:55,Tennessee Titans,Cincinnati Bengals,TEN,CIN

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200kan,First Downs,22,24,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Rush-Yds-TDs,27-141-2,31-162-4,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Cmp-Att-Yd-TD-INT,30-50-376-2-0,20-33-172-0-0,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Sacked-Yards,1-10,4-29,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Net Pass Yards,366,143,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Total Yards,507,305,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Fumbles-Lost,2-1,0-0,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Turnovers,1,0,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Penalties-Yards,8-75,5-50,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Third Down Conv.,5-15,4-13,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Fourth Down Conv.,2-3,0-0,Denver Broncos,Kansas City Chiefs,DEN,KAN
+200210200kan,Time of Possession,31:19,31:38,Denver Broncos,Kansas City Chiefs,DEN,KAN

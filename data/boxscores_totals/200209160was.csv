@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209160was,First Downs,22,11,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Rush-Yds-TDs,28-168-2,18-89-0,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Cmp-Att-Yd-TD-INT,26-38-292-2-0,16-31-119-0-2,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Sacked-Yards,2-9,4-29,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Net Pass Yards,283,90,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Total Yards,451,179,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Fumbles-Lost,0-0,1-1,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Turnovers,0,3,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Penalties-Yards,4-30,7-55,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Third Down Conv.,7-15,3-12,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Fourth Down Conv.,0-1,1-2,Philadelphia Eagles,Washington Redskins,PHI,WAS
+200209160was,Time of Possession,35:23,24:37,Philadelphia Eagles,Washington Redskins,PHI,WAS

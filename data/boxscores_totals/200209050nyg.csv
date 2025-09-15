@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209050nyg,First Downs,13,21,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Rush-Yds-TDs,25-113-0,22-43-1,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Cmp-Att-Yd-TD-INT,16-26-166-1-1,28-45-342-0-3,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Sacked-Yards,0-0,3-24,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Net Pass Yards,166,318,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Total Yards,279,361,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Fumbles-Lost,0-0,0-0,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Turnovers,1,3,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Penalties-Yards,5-29,10-80,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Third Down Conv.,4-12,9-16,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Fourth Down Conv.,0-0,0-1,San Francisco 49ers,New York Giants,SFO,NYG
+200209050nyg,Time of Possession,27:32,32:28,San Francisco 49ers,New York Giants,SFO,NYG

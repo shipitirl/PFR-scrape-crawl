@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211030clt,First Downs,13,25,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Rush-Yds-TDs,31-121-0,19-80-0,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Cmp-Att-Yd-TD-INT,14-19-82-1-0,37-50-327-2-1,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Sacked-Yards,1-5,3-29,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Net Pass Yards,77,298,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Total Yards,198,378,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Fumbles-Lost,0-0,4-2,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Turnovers,0,3,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Penalties-Yards,5-45,6-48,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Third Down Conv.,3-10,4-13,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Fourth Down Conv.,0-0,2-4,Tennessee Titans,Indianapolis Colts,TEN,IND
+200211030clt,Time of Possession,31:41,28:19,Tennessee Titans,Indianapolis Colts,TEN,IND

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209220mia,First Downs,13,21,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Rush-Yds-TDs,22-58-0,35-211-2,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Cmp-Att-Yd-TD-INT,16-28-157-0-3,16-30-185-1-0,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Sacked-Yards,3-26,1-2,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Net Pass Yards,131,183,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Total Yards,189,394,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Fumbles-Lost,1-1,1-0,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Turnovers,4,0,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Penalties-Yards,7-55,7-55,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Third Down Conv.,3-12,6-14,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Fourth Down Conv.,1-1,0-0,New York Jets,Miami Dolphins,NYJ,MIA
+200209220mia,Time of Possession,27:08,32:52,New York Jets,Miami Dolphins,NYJ,MIA

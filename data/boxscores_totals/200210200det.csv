@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200det,First Downs,17,23,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Rush-Yds-TDs,31-89-1,39-192-2,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Cmp-Att-Yd-TD-INT,16-25-163-1-1,16-29-199-0-0,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Sacked-Yards,3-28,2-29,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Net Pass Yards,135,170,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Total Yards,224,362,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Fumbles-Lost,3-2,3-1,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Turnovers,3,1,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Penalties-Yards,5-40,10-79,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Third Down Conv.,6-12,3-12,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Fourth Down Conv.,0-0,1-1,Chicago Bears,Detroit Lions,CHI,DET
+200210200det,Time of Possession,29:27,35:21,Chicago Bears,Detroit Lions,CHI,DET

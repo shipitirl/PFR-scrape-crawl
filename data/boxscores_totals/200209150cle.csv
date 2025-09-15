@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150cle,First Downs,28,15,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Rush-Yds-TDs,31-156-0,27-75-0,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Cmp-Att-Yd-TD-INT,26-47-239-1-3,17-30-198-2-0,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Sacked-Yards,5-38,1-8,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Net Pass Yards,201,190,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Total Yards,357,265,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Fumbles-Lost,2-0,0-0,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Turnovers,3,0,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Penalties-Yards,3-30,12-87,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Third Down Conv.,9-17,4-12,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Fourth Down Conv.,0-2,0-1,Cincinnati Bengals,Cleveland Browns,CIN,CLE
+200209150cle,Time of Possession,31:18,28:42,Cincinnati Bengals,Cleveland Browns,CIN,CLE

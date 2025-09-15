@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210270jax,First Downs,12,18,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Rush-Yds-TDs,31-81-1,32-126-1,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Cmp-Att-Yd-TD-INT,11-18-184-1-0,16-34-202-1-0,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Sacked-Yards,4-23,5-38,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Net Pass Yards,161,164,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Total Yards,242,290,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Fumbles-Lost,2-1,0-0,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Turnovers,1,0,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Penalties-Yards,9-60,5-50,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Third Down Conv.,3-13,6-17,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Fourth Down Conv.,0-0,0-1,Houston Texans,Jacksonville Jaguars,HOU,JAX
+200210270jax,Time of Possession,26:21,33:39,Houston Texans,Jacksonville Jaguars,HOU,JAX

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290sdg,First Downs,25,14,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Rush-Yds-TDs,23-87-0,34-238-2,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Cmp-Att-Yd-TD-INT,36-53-353-2-2,10-18-104-1-0,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Sacked-Yards,0-0,0-0,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Net Pass Yards,353,104,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Total Yards,440,342,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Fumbles-Lost,2-1,1-1,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Turnovers,3,1,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Penalties-Yards,6-45,2-20,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Third Down Conv.,7-14,6-12,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Fourth Down Conv.,1-2,1-2,New England Patriots,San Diego Chargers,NWE,SDG
+200209290sdg,Time of Possession,33:13,26:47,New England Patriots,San Diego Chargers,NWE,SDG

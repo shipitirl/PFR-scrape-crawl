@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130min,First Downs,17,22,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Rush-Yds-TDs,17-53-0,25-111-2,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Cmp-Att-Yd-TD-INT,25-41-309-2-1,27-36-295-2-1,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Sacked-Yards,1-8,1-4,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Net Pass Yards,301,291,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Total Yards,354,402,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Fumbles-Lost,0-0,0-0,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Turnovers,1,1,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Penalties-Yards,5-56,10-75,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Third Down Conv.,4-13,5-12,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Fourth Down Conv.,1-2,0-1,Detroit Lions,Minnesota Vikings,DET,MIN
+200210130min,Time of Possession,28:20,31:40,Detroit Lions,Minnesota Vikings,DET,MIN

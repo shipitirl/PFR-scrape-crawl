@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080was,First Downs,14,21,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Rush-Yds-TDs,20-70-1,32-122-1,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Cmp-Att-Yd-TD-INT,14-36-187-1-1,28-40-327-3-1,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Sacked-Yards,1-0,1-7,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Net Pass Yards,187,320,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Total Yards,257,442,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Fumbles-Lost,1-0,0-0,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Turnovers,1,1,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Penalties-Yards,1-5,7-56,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Third Down Conv.,4-13,9-16,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Fourth Down Conv.,0-0,1-2,Arizona Cardinals,Washington Redskins,ARI,WAS
+200209080was,Time of Possession,25:36,34:24,Arizona Cardinals,Washington Redskins,ARI,WAS

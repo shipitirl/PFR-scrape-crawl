@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209220atl,First Downs,11,18,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Rush-Yds-TDs,20-66-0,36-143-1,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Cmp-Att-Yd-TD-INT,18-42-136-0-2,16-26-174-2-0,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Sacked-Yards,2-11,1-11,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Net Pass Yards,125,163,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Total Yards,191,306,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Fumbles-Lost,1-0,0-0,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Turnovers,2,0,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Penalties-Yards,8-72,7-70,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Third Down Conv.,5-16,5-14,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Fourth Down Conv.,0-4,1-1,Cincinnati Bengals,Atlanta Falcons,CIN,ATL
+200209220atl,Time of Possession,23:15,36:45,Cincinnati Bengals,Atlanta Falcons,CIN,ATL

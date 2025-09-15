@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060mia,First Downs,16,21,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Rush-Yds-TDs,17-37-0,44-137-1,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Cmp-Att-Yd-TD-INT,17-31-240-2-2,17-27-190-2-0,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Sacked-Yards,3-32,1-8,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Net Pass Yards,208,182,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Total Yards,245,319,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Fumbles-Lost,2-1,2-1,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Turnovers,3,1,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Penalties-Yards,6-49,5-35,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Third Down Conv.,3-10,9-17,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Fourth Down Conv.,0-1,0-0,New England Patriots,Miami Dolphins,NWE,MIA
+200210060mia,Time of Possession,20:01,39:59,New England Patriots,Miami Dolphins,NWE,MIA

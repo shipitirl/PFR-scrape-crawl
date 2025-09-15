@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200cle,First Downs,17,14,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Rush-Yds-TDs,22-89-0,24-89-2,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Cmp-Att-Yd-TD-INT,23-37-306-2-0,21-31-148-1-0,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Sacked-Yards,8-41,1-7,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Net Pass Yards,265,141,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Total Yards,354,230,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Fumbles-Lost,3-2,0-0,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Turnovers,2,0,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Penalties-Yards,6-54,4-42,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Third Down Conv.,8-18,3-13,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Fourth Down Conv.,0-0,1-1,Houston Texans,Cleveland Browns,HOU,CLE
+200210200cle,Time of Possession,29:40,30:20,Houston Texans,Cleveland Browns,HOU,CLE

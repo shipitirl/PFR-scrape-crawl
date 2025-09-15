@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150min,First Downs,26,31,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Rush-Yds-TDs,14-31-0,39-213-2,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Cmp-Att-Yd-TD-INT,35-49-463-3-0,25-46-281-3-0,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Sacked-Yards,3-26,5-45,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Net Pass Yards,437,236,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Total Yards,468,449,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Fumbles-Lost,2-0,5-3,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Turnovers,0,3,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Penalties-Yards,6-65,8-65,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Third Down Conv.,4-12,7-16,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Fourth Down Conv.,0-0,3-3,Buffalo Bills,Minnesota Vikings,BUF,MIN
+200209150min,Time of Possession,30:23,39:49,Buffalo Bills,Minnesota Vikings,BUF,MIN

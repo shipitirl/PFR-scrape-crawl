@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210270car,First Downs,14,9,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Rush-Yds-TDs,27-71-0,31-110-0,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Cmp-Att-Yd-TD-INT,23-34-186-0-1,5-18-46-0-3,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Sacked-Yards,6-31,3-26,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Net Pass Yards,155,20,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Total Yards,226,130,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Fumbles-Lost,1-1,2-1,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Turnovers,2,4,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Penalties-Yards,4-26,7-70,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Third Down Conv.,7-18,1-12,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Fourth Down Conv.,0-0,0-0,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR
+200210270car,Time of Possession,33:01,26:59,Tampa Bay Buccaneers,Carolina Panthers,TAM,CAR

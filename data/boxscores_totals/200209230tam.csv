@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209230tam,First Downs,21,14,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Rush-Yds-TDs,20-89-2,16-63-1,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Cmp-Att-Yd-TD-INT,30-45-301-0-4,23-32-199-1-0,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Sacked-Yards,5-32,1-10,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Net Pass Yards,269,189,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Total Yards,358,252,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Fumbles-Lost,3-0,3-1,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Turnovers,4,1,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Penalties-Yards,5-33,8-50,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Third Down Conv.,5-13,3-11,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Fourth Down Conv.,1-1,0-0,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM
+200209230tam,Time of Possession,34:47,25:13,St. Louis Rams,Tampa Bay Buccaneers,STL,TAM

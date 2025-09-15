@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211030htx,First Downs,25,22,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Rush-Yds-TDs,35-127-0,25-82-0,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Cmp-Att-Yd-TD-INT,22-27-263-4-0,18-32-199-0-2,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Sacked-Yards,0-0,2-13,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Net Pass Yards,263,186,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Total Yards,390,268,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Fumbles-Lost,0-0,0-0,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Turnovers,0,2,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Penalties-Yards,9-100,8-60,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Third Down Conv.,6-10,5-13,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Fourth Down Conv.,0-0,0-0,Cincinnati Bengals,Houston Texans,CIN,HOU
+200211030htx,Time of Possession,31:22,28:38,Cincinnati Bengals,Houston Texans,CIN,HOU

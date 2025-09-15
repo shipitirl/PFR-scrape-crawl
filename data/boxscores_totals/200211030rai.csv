@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211030rai,First Downs,30,15,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Rush-Yds-TDs,48-152-0,21-81-1,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Cmp-Att-Yd-TD-INT,25-36-282-2-0,18-28-164-1-0,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Sacked-Yards,0-0,1-6,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Net Pass Yards,282,158,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Total Yards,434,239,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Fumbles-Lost,1-1,2-1,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Turnovers,1,1,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Penalties-Yards,3-40,6-44,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Third Down Conv.,13-20,5-11,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Fourth Down Conv.,1-1,1-1,San Francisco 49ers,Oakland Raiders,SFO,OAK
+200211030rai,Time of Possession,44:33,24:08,San Francisco 49ers,Oakland Raiders,SFO,OAK

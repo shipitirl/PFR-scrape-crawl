@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200rai,First Downs,24,26,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Rush-Yds-TDs,42-172-2,12-37-0,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Cmp-Att-Yd-TD-INT,16-25-170-2-0,35-45-361-3-1,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Sacked-Yards,2-9,3-8,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Net Pass Yards,161,353,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Total Yards,333,390,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Fumbles-Lost,1-0,0-0,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Turnovers,0,1,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Penalties-Yards,10-97,5-50,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Third Down Conv.,6-13,1-7,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Fourth Down Conv.,0-0,0-0,San Diego Chargers,Oakland Raiders,SDG,OAK
+200210200rai,Time of Possession,35:51,27:47,San Diego Chargers,Oakland Raiders,SDG,OAK

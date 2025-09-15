@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060nyj,First Downs,24,23,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Rush-Yds-TDs,28-215-1,27-147-1,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Cmp-Att-Yd-TD-INT,23-33-296-2-1,22-29-237-2-1,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Sacked-Yards,1-7,3-25,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Net Pass Yards,289,212,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Total Yards,504,359,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Fumbles-Lost,0-0,0-0,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Turnovers,1,1,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Penalties-Yards,7-65,4-25,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Third Down Conv.,5-10,6-11,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Fourth Down Conv.,0-0,0-0,Kansas City Chiefs,New York Jets,KAN,NYJ
+200210060nyj,Time of Possession,30:59,29:01,Kansas City Chiefs,New York Jets,KAN,NYJ

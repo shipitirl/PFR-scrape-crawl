@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209220htx,First Downs,16,10,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Rush-Yds-TDs,27-88-0,30-126-0,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Cmp-Att-Yd-TD-INT,21-28-272-2-0,12-22-99-0-1,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Sacked-Yards,3-21,4-21,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Net Pass Yards,251,78,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Total Yards,339,204,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Fumbles-Lost,2-2,1-1,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Turnovers,2,2,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Penalties-Yards,4-45,9-67,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Third Down Conv.,6-13,3-13,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Fourth Down Conv.,0-0,0-0,Indianapolis Colts,Houston Texans,IND,HOU
+200209220htx,Time of Possession,31:11,28:49,Indianapolis Colts,Houston Texans,IND,HOU

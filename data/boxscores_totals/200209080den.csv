@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080den,First Downs,15,18,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Rush-Yds-TDs,13-32-1,26-104-0,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Cmp-Att-Yd-TD-INT,32-41-315-0-1,18-27-202-2-2,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Sacked-Yards,3-20,4-15,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Net Pass Yards,295,187,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Total Yards,327,291,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Fumbles-Lost,2-1,1-0,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Turnovers,2,2,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Penalties-Yards,6-44,3-31,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Third Down Conv.,3-12,2-10,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Fourth Down Conv.,0-1,1-1,St. Louis Rams,Denver Broncos,STL,DEN
+200209080den,Time of Possession,31:46,28:14,St. Louis Rams,Denver Broncos,STL,DEN

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290gnb,First Downs,18,17,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Rush-Yds-TDs,35-139-2,22-99-0,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Cmp-Att-Yd-TD-INT,10-24-202-0-0,19-33-231-2-1,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Sacked-Yards,4-9,4-32,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Net Pass Yards,193,199,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Total Yards,332,298,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Fumbles-Lost,3-3,2-0,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Turnovers,3,1,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Penalties-Yards,7-77,10-83,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Third Down Conv.,4-14,2-11,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Fourth Down Conv.,0-0,0-0,Carolina Panthers,Green Bay Packers,CAR,GNB
+200209290gnb,Time of Possession,31:37,28:23,Carolina Panthers,Green Bay Packers,CAR,GNB

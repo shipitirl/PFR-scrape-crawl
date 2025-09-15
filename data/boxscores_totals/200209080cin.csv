@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080cin,First Downs,27,13,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Rush-Yds-TDs,45-241-2,13-36-0,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Cmp-Att-Yd-TD-INT,15-19-160-2-0,18-31-198-0-1,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Sacked-Yards,1-0,4-31,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Net Pass Yards,160,167,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Total Yards,401,203,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Fumbles-Lost,0-0,0-0,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Turnovers,0,1,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Penalties-Yards,4-39,9-57,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Third Down Conv.,6-10,4-11,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Fourth Down Conv.,0-0,0-0,San Diego Chargers,Cincinnati Bengals,SDG,CIN
+200209080cin,Time of Possession,37:48,22:12,San Diego Chargers,Cincinnati Bengals,SDG,CIN

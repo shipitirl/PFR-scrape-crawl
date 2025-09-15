@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150ram,First Downs,16,18,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Rush-Yds-TDs,38-103-0,17-92-2,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Cmp-Att-Yd-TD-INT,22-26-307-1-1,26-39-266-1-2,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Sacked-Yards,2-16,1-6,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Net Pass Yards,291,260,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Total Yards,394,352,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Fumbles-Lost,0-0,2-2,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Turnovers,1,4,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Penalties-Yards,4-30,8-40,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Third Down Conv.,6-15,3-9,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Fourth Down Conv.,0-0,0-1,New York Giants,St. Louis Rams,NYG,STL
+200209150ram,Time of Possession,35:01,24:59,New York Giants,St. Louis Rams,NYG,STL

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080cle,First Downs,24,24,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Rush-Yds-TDs,30-194-4,20-59-0,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Cmp-Att-Yd-TD-INT,20-29-276-1-1,28-40-359-4-0,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Sacked-Yards,0-0,1-7,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Net Pass Yards,276,352,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Total Yards,470,411,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Fumbles-Lost,0-0,1-1,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Turnovers,1,1,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Penalties-Yards,9-87,4-38,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Third Down Conv.,5-11,4-11,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Fourth Down Conv.,0-0,0-0,Kansas City Chiefs,Cleveland Browns,KAN,CLE
+200209080cle,Time of Possession,30:16,29:44,Kansas City Chiefs,Cleveland Browns,KAN,CLE

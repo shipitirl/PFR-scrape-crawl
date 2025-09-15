@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290pit,First Downs,13,21,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Rush-Yds-TDs,24-123-1,34-93-0,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Cmp-Att-Yd-TD-INT,16-29-144-0-2,26-39-265-1-2,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Sacked-Yards,3-22,0-0,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Net Pass Yards,122,265,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Total Yards,245,358,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Fumbles-Lost,0-0,3-0,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Turnovers,2,2,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Penalties-Yards,7-50,7-45,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Third Down Conv.,5-14,5-14,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Fourth Down Conv.,0-0,1-1,Cleveland Browns,Pittsburgh Steelers,CLE,PIT
+200209290pit,Time of Possession,29:01,38:13,Cleveland Browns,Pittsburgh Steelers,CLE,PIT

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200atl,First Downs,12,25,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Rush-Yds-TDs,21-101-0,39-187-3,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Cmp-Att-Yd-TD-INT,9-26-126-0-1,20-27-214-0-0,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Sacked-Yards,4-22,1-8,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Net Pass Yards,104,206,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Total Yards,205,393,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Fumbles-Lost,0-0,2-0,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Turnovers,1,0,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Penalties-Yards,6-40,9-65,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Third Down Conv.,3-11,5-11,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Fourth Down Conv.,0-2,1-1,Carolina Panthers,Atlanta Falcons,CAR,ATL
+200210200atl,Time of Possession,19:52,40:08,Carolina Panthers,Atlanta Falcons,CAR,ATL

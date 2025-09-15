@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060atl,First Downs,15,14,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Rush-Yds-TDs,26-74-0,22-70-0,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Cmp-Att-Yd-TD-INT,17-31-261-1-1,17-38-187-0-4,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Sacked-Yards,2-8,4-14,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Net Pass Yards,253,173,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Total Yards,327,243,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Fumbles-Lost,1-1,0-0,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Turnovers,2,4,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Penalties-Yards,6-35,6-41,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Third Down Conv.,4-13,3-14,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Fourth Down Conv.,1-1,0-1,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL
+200210060atl,Time of Possession,29:34,30:26,Tampa Bay Buccaneers,Atlanta Falcons,TAM,ATL

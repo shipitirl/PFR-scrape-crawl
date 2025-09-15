@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200nyj,First Downs,21,21,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Rush-Yds-TDs,23-101-1,29-91-1,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Cmp-Att-Yd-TD-INT,26-39-288-0-3,24-29-324-1-0,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Sacked-Yards,0-0,2-8,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Net Pass Yards,288,316,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Total Yards,389,407,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Fumbles-Lost,1-1,0-0,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Turnovers,4,0,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Penalties-Yards,6-60,4-45,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Third Down Conv.,7-11,6-13,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Fourth Down Conv.,0-0,0-0,Minnesota Vikings,New York Jets,MIN,NYJ
+200210200nyj,Time of Possession,26:15,33:45,Minnesota Vikings,New York Jets,MIN,NYJ

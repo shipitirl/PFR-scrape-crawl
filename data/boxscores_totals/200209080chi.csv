@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080chi,First Downs,19,20,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Rush-Yds-TDs,33-140-1,26-80-1,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Cmp-Att-Yd-TD-INT,16-28-234-1-2,20-33-297-2-1,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Sacked-Yards,1-6,1-9,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Net Pass Yards,228,288,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Total Yards,368,368,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Fumbles-Lost,2-1,1-1,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Turnovers,3,2,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Penalties-Yards,8-52,4-33,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Third Down Conv.,5-13,7-13,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Fourth Down Conv.,0-0,0-0,Minnesota Vikings,Chicago Bears,MIN,CHI
+200209080chi,Time of Possession,31:31,28:29,Minnesota Vikings,Chicago Bears,MIN,CHI

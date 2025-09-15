@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150sdg,First Downs,7,16,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Rush-Yds-TDs,25-89-0,35-124-1,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Cmp-Att-Yd-TD-INT,6-25-87-0-2,15-28-163-1-1,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Sacked-Yards,9-58,2-20,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Net Pass Yards,29,143,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Total Yards,118,267,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Fumbles-Lost,2-1,1-0,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Turnovers,3,1,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Penalties-Yards,12-73,4-35,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Third Down Conv.,1-14,4-14,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Fourth Down Conv.,1-2,0-0,Houston Texans,San Diego Chargers,HOU,SDG
+200209150sdg,Time of Possession,27:36,32:24,Houston Texans,San Diego Chargers,HOU,SDG

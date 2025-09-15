@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211100jax,First Downs,23,18,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Rush-Yds-TDs,16-68-0,32-142-2,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Cmp-Att-Yd-TD-INT,27-51-256-1-3,19-29-194-0-0,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Sacked-Yards,2-17,3-27,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Net Pass Yards,239,167,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Total Yards,307,309,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Fumbles-Lost,1-0,1-0,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Turnovers,3,0,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Penalties-Yards,6-49,8-55,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Third Down Conv.,3-12,6-15,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Fourth Down Conv.,1-3,0-0,Washington Redskins,Jacksonville Jaguars,WAS,JAX
+200211100jax,Time of Possession,26:17,33:43,Washington Redskins,Jacksonville Jaguars,WAS,JAX

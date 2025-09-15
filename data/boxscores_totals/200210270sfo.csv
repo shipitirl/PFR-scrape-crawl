@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210270sfo,First Downs,23,18,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Rush-Yds-TDs,27-151-4,29-105-1,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Cmp-Att-Yd-TD-INT,24-36-286-0-3,18-28-252-4-0,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Sacked-Yards,3-17,1-0,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Net Pass Yards,269,252,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Total Yards,420,357,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Fumbles-Lost,4-1,1-0,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Turnovers,4,0,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Penalties-Yards,7-65,3-25,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Third Down Conv.,9-12,6-12,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Fourth Down Conv.,1-1,1-1,Arizona Cardinals,San Francisco 49ers,ARI,SFO
+200210270sfo,Time of Possession,32:27,27:33,Arizona Cardinals,San Francisco 49ers,ARI,SFO

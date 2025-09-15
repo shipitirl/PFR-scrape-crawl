@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080rai,First Downs,14,27,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Rush-Yds-TDs,16-43-0,40-221-2,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Cmp-Att-Yd-TD-INT,23-32-155-2-0,19-28-214-2-1,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Sacked-Yards,3-12,2-12,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Net Pass Yards,143,202,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Total Yards,186,423,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Fumbles-Lost,2-0,1-1,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Turnovers,0,2,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Penalties-Yards,13-105,5-45,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Third Down Conv.,1-11,7-12,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Fourth Down Conv.,2-2,1-1,Seattle Seahawks,Oakland Raiders,SEA,OAK
+200209080rai,Time of Possession,25:09,34:51,Seattle Seahawks,Oakland Raiders,SEA,OAK

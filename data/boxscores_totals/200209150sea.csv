@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150sea,First Downs,19,26,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Rush-Yds-TDs,35-249-1,29-81-0,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Cmp-Att-Yd-TD-INT,10-22-107-1-1,29-47-352-1-0,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Sacked-Yards,2-9,1-7,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Net Pass Yards,98,345,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Total Yards,347,426,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Fumbles-Lost,2-0,2-1,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Turnovers,1,1,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Penalties-Yards,7-42,7-35,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Third Down Conv.,6-13,4-13,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Fourth Down Conv.,0-0,0-3,Arizona Cardinals,Seattle Seahawks,ARI,SEA
+200209150sea,Time of Possession,29:00,31:00,Arizona Cardinals,Seattle Seahawks,ARI,SEA

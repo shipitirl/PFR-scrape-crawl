@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200ram,First Downs,13,28,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Rush-Yds-TDs,16-50-0,42-218-3,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Cmp-Att-Yd-TD-INT,10-30-255-1-2,22-40-265-1-1,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Sacked-Yards,3-15,1-5,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Net Pass Yards,240,260,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Total Yards,290,478,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Fumbles-Lost,3-1,1-1,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Turnovers,3,2,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Penalties-Yards,2-15,6-35,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Third Down Conv.,2-11,8-16,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Fourth Down Conv.,0-1,0-0,Seattle Seahawks,St. Louis Rams,SEA,STL
+200210200ram,Time of Possession,19:33,40:27,Seattle Seahawks,St. Louis Rams,SEA,STL

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211100car,First Downs,17,21,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Rush-Yds-TDs,25-97-2,27-100-1,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Cmp-Att-Yd-TD-INT,20-38-259-1-0,23-40-310-2-1,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Sacked-Yards,2-11,2-14,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Net Pass Yards,248,296,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Total Yards,345,396,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Fumbles-Lost,1-0,1-1,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Turnovers,0,2,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Penalties-Yards,11-63,7-57,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Third Down Conv.,4-15,4-17,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Fourth Down Conv.,0-1,1-2,New Orleans Saints,Carolina Panthers,NOR,CAR
+200211100car,Time of Possession,27:39,32:21,New Orleans Saints,Carolina Panthers,NOR,CAR

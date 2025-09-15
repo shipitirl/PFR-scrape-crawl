@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210210pit,First Downs,23,22,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Rush-Yds-TDs,21-72-0,33-182-2,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Cmp-Att-Yd-TD-INT,32-48-304-1-3,15-23-188-2-1,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Sacked-Yards,2-9,1-6,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Net Pass Yards,295,182,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Total Yards,367,364,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Fumbles-Lost,0-0,1-0,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Turnovers,3,1,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Penalties-Yards,7-55,4-38,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Third Down Conv.,8-16,3-7,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Fourth Down Conv.,2-2,0-1,Indianapolis Colts,Pittsburgh Steelers,IND,PIT
+200210210pit,Time of Possession,30:53,29:07,Indianapolis Colts,Pittsburgh Steelers,IND,PIT

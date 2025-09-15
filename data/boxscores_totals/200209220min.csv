@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209220min,First Downs,20,13,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Rush-Yds-TDs,33-164-2,18-73-1,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Cmp-Att-Yd-TD-INT,20-30-221-1-2,19-30-191-1-4,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Sacked-Yards,3-15,5-14,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Net Pass Yards,206,177,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Total Yards,370,250,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Fumbles-Lost,0-0,4-1,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Turnovers,2,5,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Penalties-Yards,6-41,6-55,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Third Down Conv.,6-15,2-10,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Fourth Down Conv.,0-0,0-1,Carolina Panthers,Minnesota Vikings,CAR,MIN
+200209220min,Time of Possession,35:24,24:36,Carolina Panthers,Minnesota Vikings,CAR,MIN

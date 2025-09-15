@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060nor,First Downs,23,17,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Rush-Yds-TDs,26-120-1,28-121-2,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Cmp-Att-Yd-TD-INT,22-38-268-3-1,13-23-205-1-0,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Sacked-Yards,4-24,2-11,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Net Pass Yards,244,194,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Total Yards,364,315,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Fumbles-Lost,1-1,0-0,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Turnovers,2,0,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Penalties-Yards,7-80,6-35,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Third Down Conv.,7-13,5-12,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Fourth Down Conv.,1-1,0-0,Pittsburgh Steelers,New Orleans Saints,PIT,NOR
+200210060nor,Time of Possession,32:14,27:46,Pittsburgh Steelers,New Orleans Saints,PIT,NOR

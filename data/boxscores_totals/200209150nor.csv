@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150nor,First Downs,18,16,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Rush-Yds-TDs,21-95-0,28-146-2,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Cmp-Att-Yd-TD-INT,29-44-270-2-1,16-28-217-2-2,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Sacked-Yards,1-8,1-6,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Net Pass Yards,262,211,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Total Yards,357,357,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Fumbles-Lost,3-3,2-0,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Turnovers,4,2,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Penalties-Yards,7-73,9-59,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Third Down Conv.,3-13,7-12,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Fourth Down Conv.,0-2,0-0,Green Bay Packers,New Orleans Saints,GNB,NOR
+200209150nor,Time of Possession,30:26,29:34,Green Bay Packers,New Orleans Saints,GNB,NOR

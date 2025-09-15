@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210270nor,First Downs,28,22,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Rush-Yds-TDs,38-260-4,24-159-2,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Cmp-Att-Yd-TD-INT,16-25-195-0-0,16-35-192-2-2,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Sacked-Yards,3-9,0-0,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Net Pass Yards,186,192,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Total Yards,446,351,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Fumbles-Lost,2-2,2-1,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Turnovers,2,3,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Penalties-Yards,10-95,9-96,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Third Down Conv.,7-11,2-8,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Fourth Down Conv.,0-0,2-3,Atlanta Falcons,New Orleans Saints,ATL,NOR
+200210270nor,Time of Possession,35:03,24:57,Atlanta Falcons,New Orleans Saints,ATL,NOR

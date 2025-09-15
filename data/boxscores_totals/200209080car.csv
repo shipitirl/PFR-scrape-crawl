@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080car,First Downs,15,15,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Rush-Yds-TDs,19-77-0,36-145-0,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Cmp-Att-Yd-TD-INT,20-34-218-1-1,12-19-136-1-0,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Sacked-Yards,2-6,2-16,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Net Pass Yards,212,120,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Total Yards,289,265,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Fumbles-Lost,0-0,1-0,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Turnovers,1,0,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Penalties-Yards,6-45,6-35,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Third Down Conv.,5-14,5-14,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Fourth Down Conv.,0-0,0-0,Baltimore Ravens,Carolina Panthers,BAL,CAR
+200209080car,Time of Possession,26:09,33:51,Baltimore Ravens,Carolina Panthers,BAL,CAR

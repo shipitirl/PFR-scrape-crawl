@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080mia,First Downs,15,27,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Rush-Yds-TDs,19-51-2,41-182-3,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Cmp-Att-Yd-TD-INT,17-36-220-1-1,18-27-207-3-0,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Sacked-Yards,3-14,0-0,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Net Pass Yards,206,207,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Total Yards,257,389,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Fumbles-Lost,2-1,2-0,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Turnovers,2,0,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Penalties-Yards,6-68,4-54,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Third Down Conv.,7-14,6-12,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Fourth Down Conv.,0-1,1-1,Detroit Lions,Miami Dolphins,DET,MIA
+200209080mia,Time of Possession,25:36,34:24,Detroit Lions,Miami Dolphins,DET,MIA

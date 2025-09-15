@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290sea,First Downs,28,18,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Rush-Yds-TDs,32-194-3,31-159-4,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Cmp-Att-Yd-TD-INT,29-53-273-0-2,13-28-222-1-0,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Sacked-Yards,4-24,0-0,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Net Pass Yards,249,222,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Total Yards,443,381,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Fumbles-Lost,4-2,1-1,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Turnovers,4,1,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Penalties-Yards,8-58,4-35,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Third Down Conv.,10-18,4-12,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Fourth Down Conv.,1-4,1-2,Minnesota Vikings,Seattle Seahawks,MIN,SEA
+200209290sea,Time of Possession,34:53,25:07,Minnesota Vikings,Seattle Seahawks,MIN,SEA

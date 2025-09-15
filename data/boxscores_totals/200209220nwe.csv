@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209220nwe,First Downs,21,27,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Rush-Yds-TDs,34-221-2,20-97-1,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Cmp-Att-Yd-TD-INT,16-25-149-3-2,39-55-410-4-1,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Sacked-Yards,3-21,4-11,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Net Pass Yards,128,399,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Total Yards,349,496,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Fumbles-Lost,1-1,2-0,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Turnovers,3,1,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Penalties-Yards,1-5,12-100,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Third Down Conv.,6-11,8-17,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Fourth Down Conv.,0-0,0-0,Kansas City Chiefs,New England Patriots,KAN,NWE
+200209220nwe,Time of Possession,27:01,37:39,Kansas City Chiefs,New England Patriots,KAN,NWE

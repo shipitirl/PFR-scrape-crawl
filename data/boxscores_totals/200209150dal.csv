@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150dal,First Downs,19,14,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Rush-Yds-TDs,26-98-0,26-67-0,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Cmp-Att-Yd-TD-INT,23-43-259-1-1,14-24-240-2-0,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Sacked-Yards,3-24,1-10,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Net Pass Yards,235,230,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Total Yards,333,297,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Fumbles-Lost,1-0,0-0,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Turnovers,1,0,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Penalties-Yards,6-55,2-15,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Third Down Conv.,7-17,4-12,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Fourth Down Conv.,1-2,0-0,Tennessee Titans,Dallas Cowboys,TEN,DAL
+200209150dal,Time of Possession,35:45,24:15,Tennessee Titans,Dallas Cowboys,TEN,DAL

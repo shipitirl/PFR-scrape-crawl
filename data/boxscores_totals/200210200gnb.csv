@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200gnb,First Downs,19,19,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Rush-Yds-TDs,34-146-0,25-88-3,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Cmp-Att-Yd-TD-INT,10-24-135-0-0,20-29-167-0-0,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Sacked-Yards,6-43,1-12,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Net Pass Yards,92,155,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Total Yards,238,243,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Fumbles-Lost,6-4,2-1,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Turnovers,4,1,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Penalties-Yards,11-129,11-95,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Third Down Conv.,3-10,4-12,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Fourth Down Conv.,0-1,0-1,Washington Redskins,Green Bay Packers,WAS,GNB
+200210200gnb,Time of Possession,30:59,29:01,Washington Redskins,Green Bay Packers,WAS,GNB

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210200nor,First Downs,26,27,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Rush-Yds-TDs,25-143-2,27-179-1,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Cmp-Att-Yd-TD-INT,23-39-275-1-1,23-35-254-3-0,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Sacked-Yards,0-0,3-11,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Net Pass Yards,275,243,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Total Yards,418,422,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Fumbles-Lost,1-1,2-1,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Turnovers,2,1,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Penalties-Yards,5-42,4-35,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Third Down Conv.,9-12,10-14,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Fourth Down Conv.,0-0,0-0,San Francisco 49ers,New Orleans Saints,SFO,NOR
+200210200nor,Time of Possession,29:59,30:01,San Francisco 49ers,New Orleans Saints,SFO,NOR

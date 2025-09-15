@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130htx,First Downs,25,18,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Rush-Yds-TDs,33-173-2,29-141-1,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Cmp-Att-Yd-TD-INT,19-33-254-2-0,13-24-223-2-0,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Sacked-Yards,3-24,5-26,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Net Pass Yards,230,197,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Total Yards,403,338,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Fumbles-Lost,3-1,1-0,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Turnovers,1,0,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Penalties-Yards,13-128,11-75,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Third Down Conv.,6-14,3-12,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Fourth Down Conv.,0-0,1-2,Buffalo Bills,Houston Texans,BUF,HOU
+200210130htx,Time of Possession,33:22,26:38,Buffalo Bills,Houston Texans,BUF,HOU

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211030tam,First Downs,22,27,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Rush-Yds-TDs,23-173-3,30-133-0,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Cmp-Att-Yd-TD-INT,18-29-225-0-2,24-31-313-5-0,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Sacked-Yards,3-11,0-0,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Net Pass Yards,214,313,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Total Yards,387,446,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Fumbles-Lost,2-1,0-0,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Turnovers,3,0,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Penalties-Yards,12-83,7-52,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Third Down Conv.,6-10,6-11,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Fourth Down Conv.,0-0,0-1,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM
+200211030tam,Time of Possession,26:44,33:16,Minnesota Vikings,Tampa Bay Buccaneers,MIN,TAM

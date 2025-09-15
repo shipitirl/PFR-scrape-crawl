@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130sdg,First Downs,17,27,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Rush-Yds-TDs,29-88-1,28-153-3,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Cmp-Att-Yd-TD-INT,17-29-236-3-2,28-41-319-2-2,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Sacked-Yards,1-5,1-7,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Net Pass Yards,231,312,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Total Yards,319,465,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Fumbles-Lost,0-0,3-3,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Turnovers,2,5,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Penalties-Yards,3-30,4-35,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Third Down Conv.,4-12,6-12,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Fourth Down Conv.,0-0,1-1,Kansas City Chiefs,San Diego Chargers,KAN,SDG
+200210130sdg,Time of Possession,29:32,30:28,Kansas City Chiefs,San Diego Chargers,KAN,SDG

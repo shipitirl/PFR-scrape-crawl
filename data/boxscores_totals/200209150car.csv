@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150car,First Downs,12,20,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Rush-Yds-TDs,22-73-1,30-75-2,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Cmp-Att-Yd-TD-INT,12-30-106-0-2,21-33-310-1-0,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Sacked-Yards,6-57,0-0,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Net Pass Yards,49,310,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Total Yards,122,385,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Fumbles-Lost,2-1,1-0,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Turnovers,3,0,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Penalties-Yards,11-100,4-55,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Third Down Conv.,1-15,3-14,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Fourth Down Conv.,0-0,0-0,Detroit Lions,Carolina Panthers,DET,CAR
+200209150car,Time of Possession,26:17,33:43,Detroit Lions,Carolina Panthers,DET,CAR

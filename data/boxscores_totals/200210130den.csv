@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130den,First Downs,16,27,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Rush-Yds-TDs,23-58-2,26-111-0,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Cmp-Att-Yd-TD-INT,19-29-210-0-1,27-46-335-1-2,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Sacked-Yards,1-9,3-36,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Net Pass Yards,201,299,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Total Yards,259,410,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Fumbles-Lost,1-1,2-1,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Turnovers,2,3,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Penalties-Yards,8-42,9-70,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Third Down Conv.,5-11,6-16,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Fourth Down Conv.,0-0,0-0,Miami Dolphins,Denver Broncos,MIA,DEN
+200210130den,Time of Possession,25:55,34:05,Miami Dolphins,Denver Broncos,MIA,DEN

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290kan,First Downs,28,25,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Rush-Yds-TDs,19-105-2,33-122-1,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Cmp-Att-Yd-TD-INT,29-45-310-1-4,24-34-328-5-0,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Sacked-Yards,2-16,0-0,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Net Pass Yards,294,328,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Total Yards,399,450,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Fumbles-Lost,1-1,1-0,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Turnovers,5,0,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Penalties-Yards,9-86,10-71,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Third Down Conv.,1-8,5-13,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Fourth Down Conv.,0-1,0-0,Miami Dolphins,Kansas City Chiefs,MIA,KAN
+200209290kan,Time of Possession,26:25,33:35,Miami Dolphins,Kansas City Chiefs,MIA,KAN

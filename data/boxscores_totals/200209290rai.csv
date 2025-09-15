@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290rai,First Downs,23,24,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Rush-Yds-TDs,16-43-2,21-90-0,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Cmp-Att-Yd-TD-INT,32-46-398-2-4,29-39-381-4-0,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Sacked-Yards,2-11,2-7,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Net Pass Yards,387,374,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Total Yards,430,464,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Fumbles-Lost,0-0,2-1,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Turnovers,4,1,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Penalties-Yards,11-77,10-117,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Third Down Conv.,6-10,3-9,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Fourth Down Conv.,0-1,0-0,Tennessee Titans,Oakland Raiders,TEN,OAK
+200209290rai,Time of Possession,30:25,29:35,Tennessee Titans,Oakland Raiders,TEN,OAK

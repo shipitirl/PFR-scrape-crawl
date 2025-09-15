@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060car,First Downs,18,12,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Rush-Yds-TDs,29-91-0,24-58-0,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Cmp-Att-Yd-TD-INT,18-40-221-1-1,20-34-196-1-2,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Sacked-Yards,1-0,2-10,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Net Pass Yards,221,186,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Total Yards,312,244,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Fumbles-Lost,1-0,2-2,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Turnovers,1,4,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Penalties-Yards,6-62,6-45,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Third Down Conv.,6-18,4-14,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Fourth Down Conv.,0-1,0-1,Arizona Cardinals,Carolina Panthers,ARI,CAR
+200210060car,Time of Possession,31:26,28:34,Arizona Cardinals,Carolina Panthers,ARI,CAR

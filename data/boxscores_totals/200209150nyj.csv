@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150nyj,First Downs,24,9,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Rush-Yds-TDs,40-163-1,9-32-0,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Cmp-Att-Yd-TD-INT,25-35-269-2-1,18-33-189-1-1,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Sacked-Yards,0-0,5-21,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Net Pass Yards,269,168,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Total Yards,432,200,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Fumbles-Lost,1-1,1-1,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Turnovers,2,2,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Penalties-Yards,3-36,7-55,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Third Down Conv.,10-16,1-12,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Fourth Down Conv.,2-2,1-3,New England Patriots,New York Jets,NWE,NYJ
+200209150nyj,Time of Possession,38:04,21:56,New England Patriots,New York Jets,NWE,NYJ

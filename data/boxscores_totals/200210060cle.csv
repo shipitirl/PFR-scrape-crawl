@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060cle,First Downs,18,21,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Rush-Yds-TDs,34-201-0,17-62-0,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Cmp-Att-Yd-TD-INT,19-30-208-2-0,29-49-396-3-4,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Sacked-Yards,0-0,2-25,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Net Pass Yards,208,371,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Total Yards,409,433,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Fumbles-Lost,1-1,3-1,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Turnovers,1,5,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Penalties-Yards,7-65,9-117,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Third Down Conv.,6-15,7-15,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Fourth Down Conv.,0-0,2-2,Baltimore Ravens,Cleveland Browns,BAL,CLE
+200210060cle,Time of Possession,30:51,29:09,Baltimore Ravens,Cleveland Browns,BAL,CLE

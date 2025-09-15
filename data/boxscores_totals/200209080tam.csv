@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209080tam,First Downs,21,19,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Rush-Yds-TDs,34-118-0,21-72-0,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Cmp-Att-Yd-TD-INT,24-42-260-2-1,28-53-278-2-1,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Sacked-Yards,2-10,3-17,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Net Pass Yards,250,261,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Total Yards,368,333,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Fumbles-Lost,0-0,1-0,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Turnovers,1,1,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Penalties-Yards,5-45,8-85,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Third Down Conv.,10-20,7-19,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Fourth Down Conv.,0-0,0-1,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM
+200209080tam,Time of Possession,40:41,31:29,New Orleans Saints,Tampa Bay Buccaneers,NOR,TAM

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210130dal,First Downs,14,17,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Rush-Yds-TDs,34-110-0,24-137-0,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Cmp-Att-Yd-TD-INT,16-27-198-1-0,15-32-225-2-1,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Sacked-Yards,0-0,6-51,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Net Pass Yards,198,174,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Total Yards,308,311,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Fumbles-Lost,0-0,2-1,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Turnovers,0,2,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Penalties-Yards,14-106,9-71,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Third Down Conv.,5-16,3-13,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Fourth Down Conv.,0-0,2-3,Carolina Panthers,Dallas Cowboys,CAR,DAL
+200210130dal,Time of Possession,33:36,26:24,Carolina Panthers,Dallas Cowboys,CAR,DAL

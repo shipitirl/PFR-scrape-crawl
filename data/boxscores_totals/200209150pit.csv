@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209150pit,First Downs,27,14,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Rush-Yds-TDs,17-95-1,18-72-0,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Cmp-Att-Yd-TD-INT,43-65-403-1-2,18-34-201-2-1,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Sacked-Yards,5-34,0-0,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Net Pass Yards,369,201,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Total Yards,464,273,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Fumbles-Lost,1-0,4-4,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Turnovers,2,5,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Penalties-Yards,7-69,6-57,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Third Down Conv.,12-20,4-10,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Fourth Down Conv.,0-0,0-0,Oakland Raiders,Pittsburgh Steelers,OAK,PIT
+200209150pit,Time of Possession,39:34,20:26,Oakland Raiders,Pittsburgh Steelers,OAK,PIT

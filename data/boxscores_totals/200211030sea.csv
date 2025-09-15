@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211030sea,First Downs,16,21,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Rush-Yds-TDs,29-146-0,25-84-0,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Cmp-Att-Yd-TD-INT,10-27-114-2-1,28-44-264-0-0,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Sacked-Yards,1-1,4-24,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Net Pass Yards,113,240,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Total Yards,259,324,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Fumbles-Lost,0-0,2-2,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Turnovers,1,2,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Penalties-Yards,6-68,5-52,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Third Down Conv.,6-13,6-17,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Fourth Down Conv.,0-0,1-3,Washington Redskins,Seattle Seahawks,WAS,SEA
+200211030sea,Time of Possession,25:02,34:58,Washington Redskins,Seattle Seahawks,WAS,SEA

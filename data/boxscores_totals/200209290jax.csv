@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290jax,First Downs,18,20,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Rush-Yds-TDs,22-78-0,40-223-4,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Cmp-Att-Yd-TD-INT,21-39-281-0-2,10-15-173-0-0,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Sacked-Yards,2-14,2-13,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Net Pass Yards,267,160,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Total Yards,345,383,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Fumbles-Lost,4-2,0-0,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Turnovers,4,0,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Penalties-Yards,4-25,3-15,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Third Down Conv.,5-13,4-10,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Fourth Down Conv.,0-3,0-0,New York Jets,Jacksonville Jaguars,NYJ,JAX
+200209290jax,Time of Possession,26:34,33:26,New York Jets,Jacksonville Jaguars,NYJ,JAX

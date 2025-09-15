@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290det,First Downs,24,16,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Rush-Yds-TDs,16-110-1,30-85-0,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Cmp-Att-Yd-TD-INT,27-48-269-2-2,20-35-267-1-0,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Sacked-Yards,3-22,0-0,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Net Pass Yards,247,267,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Total Yards,357,352,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Fumbles-Lost,1-1,1-0,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Turnovers,3,0,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Penalties-Yards,6-38,5-44,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Third Down Conv.,7-13,5-15,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Fourth Down Conv.,0-0,1-2,New Orleans Saints,Detroit Lions,NOR,DET
+200209290det,Time of Possession,26:23,33:37,New Orleans Saints,Detroit Lions,NOR,DET

@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200210060jax,First Downs,28,16,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Rush-Yds-TDs,30-199-1,27-70-1,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Cmp-Att-Yd-TD-INT,28-48-230-2-0,13-23-197-1-0,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Sacked-Yards,5-23,1-0,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Net Pass Yards,207,197,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Total Yards,406,267,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Fumbles-Lost,0-0,0-0,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Turnovers,0,0,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Penalties-Yards,10-75,4-21,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Third Down Conv.,7-17,2-11,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Fourth Down Conv.,3-4,1-1,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX
+200210060jax,Time of Possession,34:58,25:02,Philadelphia Eagles,Jacksonville Jaguars,PHI,JAX

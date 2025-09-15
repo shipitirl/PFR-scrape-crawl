@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211100phi,First Downs,18,21,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Rush-Yds-TDs,35-127-2,22-105-0,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Cmp-Att-Yd-TD-INT,18-23-319-3-0,27-48-281-1-0,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Sacked-Yards,0-0,2-12,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Net Pass Yards,319,269,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Total Yards,446,374,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Fumbles-Lost,1-1,3-2,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Turnovers,1,2,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Penalties-Yards,3-25,3-25,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Third Down Conv.,7-13,4-14,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Fourth Down Conv.,0-0,1-4,Indianapolis Colts,Philadelphia Eagles,IND,PHI
+200211100phi,Time of Possession,30:38,29:22,Indianapolis Colts,Philadelphia Eagles,IND,PHI

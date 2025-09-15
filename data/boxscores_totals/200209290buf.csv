@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290buf,First Downs,15,26,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Rush-Yds-TDs,26-52-0,25-103-0,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Cmp-Att-Yd-TD-INT,19-31-188-2-0,28-36-328-4-0,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Sacked-Yards,0-0,2-21,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Net Pass Yards,188,307,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Total Yards,240,410,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Fumbles-Lost,0-0,2-1,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Turnovers,0,1,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Penalties-Yards,5-55,9-82,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Third Down Conv.,6-14,5-11,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Fourth Down Conv.,0-0,0-0,Chicago Bears,Buffalo Bills,CHI,BUF
+200209290buf,Time of Possession,29:04,32:54,Chicago Bears,Buffalo Bills,CHI,BUF

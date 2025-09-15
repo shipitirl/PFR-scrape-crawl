@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200211030det,First Downs,17,8,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Rush-Yds-TDs,27-71-1,23-52-0,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Cmp-Att-Yd-TD-INT,22-39-208-0-0,14-33-104-0-2,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Sacked-Yards,5-58,1-8,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Net Pass Yards,150,96,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Total Yards,221,148,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Fumbles-Lost,3-2,0-0,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Turnovers,2,2,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Penalties-Yards,7-70,6-50,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Third Down Conv.,5-16,2-15,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Fourth Down Conv.,1-1,1-1,Dallas Cowboys,Detroit Lions,DAL,DET
+200211030det,Time of Possession,34:33,25:27,Dallas Cowboys,Detroit Lions,DAL,DET

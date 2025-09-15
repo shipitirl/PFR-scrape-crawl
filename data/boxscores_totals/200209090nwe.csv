@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209090nwe,First Downs,20,20,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Rush-Yds-TDs,24-74-1,18-63-0,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Cmp-Att-Yd-TD-INT,25-38-247-1-3,29-43-294-3-0,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Sacked-Yards,5-38,2-14,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Net Pass Yards,209,280,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Total Yards,283,343,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Fumbles-Lost,2-2,1-1,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Turnovers,5,1,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Penalties-Yards,13-112,7-88,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Third Down Conv.,4-14,5-13,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Fourth Down Conv.,2-2,0-0,Pittsburgh Steelers,New England Patriots,PIT,NWE
+200209090nwe,Time of Possession,30:31,29:29,Pittsburgh Steelers,New England Patriots,PIT,NWE

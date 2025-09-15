@@ -1,0 +1,13 @@
+game_id,stat,away_value,home_value,away_team,home_team,away_team_header,home_team_header
+200209290ram,First Downs,17,19,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Rush-Yds-TDs,27-122-0,21-93-0,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Cmp-Att-Yd-TD-INT,26-36-204-1-1,25-40-279-1-2,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Sacked-Yards,2-11,1-6,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Net Pass Yards,193,273,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Total Yards,315,366,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Fumbles-Lost,2-1,2-1,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Turnovers,2,3,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Penalties-Yards,8-60,8-65,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Third Down Conv.,5-15,5-13,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Fourth Down Conv.,0-0,0-0,Dallas Cowboys,St. Louis Rams,DAL,STL
+200209290ram,Time of Possession,31:57,28:03,Dallas Cowboys,St. Louis Rams,DAL,STL
